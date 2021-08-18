@@ -26,7 +26,7 @@ Output format will alway be PNG.
 1. Clone repo
 ```bash
 cd <"the path to install it">
-git clone https://github.com/jpa38/Thumbs_doll.git
+git clone https://github.com/jpa38/image-resizer.git
 ```
 
 2. Download and Unzip Image Magick : https://imagemagick.org/script/download.php in ImageMagick's folder.
